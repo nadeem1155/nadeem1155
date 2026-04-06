@@ -2,7 +2,7 @@
 
 **Assistant Professor — Department of Computer Science & Engineering**  
 **Shri Ramswaroop Memorial University, Lucknow, India**  
-**Verified Email:** nadeem@srmu.ac.in  
+**Verified Email:** mohdnadeem.dcse@srmu.ac.in  
 
 ---
 
