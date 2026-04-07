@@ -76,35 +76,35 @@ Publications listed in order of citations. Links to be updated.
 
 - **The Evaluation of Software Security through Quantum Computing Techniques: A Durability Perspective**  
   Alyami H., Nadeem M., Alharbi A., et al. | *Applied Sciences*, 11(24), 11784 | 2021 | 63 citations  
-  [Link](#)
+  [Link]([#](https://www.mdpi.com/2076-3417/11/24/11784?utm_source=researchgate.net&utm_medium=article))
 
 - **Analyzing the Data of Software Security Life-Span: Quantum Computing Era**  
   Alyami H., Nadeem M., Alosaimi W., et al. | *Intelligent Automation & Soft Computing*, 31(2), 707–716 | 2022 | 35 citations  
-  [Link](#)
+  [Link]([#](https://www.techscience.com/iasc/v31n2/44556))
 
 - **Analyze Quantum Security in Software Design Using Fuzzy-AHP**  
   Nadeem M. | *International Journal of Information Technology*, 17(9), 5563–5575 | 2025 | 18 citations  
-  [Link](#)
+  [Link]([#](https://link.springer.com/article/10.1007/s41870-024-02002-w))
 
 - **Analytic Review of Healthcare Software by Using Quantum Computing Security Techniques**  
   Almotiri S.H., Nadeem M., Al Ghamdi M.A., Khan R.A. | *International Journal of Fuzzy Logic and Intelligent Systems*, 23(3), 336–352 | 2023 | 28 citations  
-  [Link](#)
+  [Link](https://www.ijfis.org/journal/view.html?uid=1047&vmd=Full)
 
 - **Security Evaluation of Software by Using Fuzzy-TOPSIS Through Quantum Criteria**  
   Nadeem M., Ahmad M., Ansar S.A., Pathak P.C., et al. | *Journal of Fuzzy Logic and Modeling in Engineering*, 2(1) | 2024 | 1 citation  
-  [Link](#)
+  [Link](https://www.eurekaselect.com/article/133770)
 
 - **Securing Information Systems through Quantum Computing: Grover's Algorithm Approach**  
   Nadeem M., Sarkar A.K., Ishrat M. | *Computational Intelligence Applications in Cyber Security*, pp. 299–306 | 2024  
-  [Link](#)
+  [Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003514312-18/securing-information-systems-quantum-computing-mohd-nadeem-amal-krishna-sarkar-mohammed-ishrat)
 
 - **Enhancing Data Security in Satellite Communication Systems: Integrating Quantum Cryptography with CatBoost Machine Learning**  
   Nadeem M., Ansar S.A., Halwai S., Singh A., Kumar R. | *Information*, 17(3), 220 | 2026  
-  [Link](#)
+  [Link](https://www.mdpi.com/2078-2489/17/3/220?utm_source=researchgate.net&utm_medium=article)
 
 - **Quantum Computing and IoT: Transforming Cybersecurity in the Defence Sector**  
   Nadeem M., Khan S.A., Agrawal A., Khan R.A. | 2026  
-  [Link](#)
+  [Link](https://www.emerald.com/books/edited-volume/21365/chapter-abstract/109820880/Quantum-Computing-and-IoT-Transforming?redirectedFrom=fulltext)
 
 ---
 
@@ -116,27 +116,27 @@ Publications listed in order of citations. Links to be updated.
 
 - **Fuzzy Multi Criteria Decision Analysis Method for Assessing Security Design Tactics for Web Applications**  
   Alenezi M., Nadeem M., Agrawal A., Khan R.A. | *International Journal of Intelligent Engineering & Systems*, 13(5) | 2020 | 23 citations  
-  [Link](#)
+  [Link](https://www.techscience.com/iasc/v31n1/44311)
 
 - **Quantitative Analysis of Software Security through Fuzzy PROMETHEE-II Methodology: A Design Perspective**  
   Khan S.A., Nadeem M., Agrawal A., Kumar R., Khan R.A. | *International Journal of Modern Education & Computer Science*, 13(6) | 2021 | 14 citations  
-  [Link](#)
+  [Link](https://www.mecs-press.org/ijmecs/ijmecs-v13-n6/v13n6-4.html)
 
 - **Selection of Data Analytic Techniques by Using Fuzzy AHP-TOPSIS from a Healthcare Perspective**  
   Alharbi A., Alosaimi W., Alyami H., et al., Nadeem M. | *BMC Medical Informatics and Decision Making*, 24(1), 240 | 2024 | 27 citations  
-  [Link](#)
+  [Link](https://link.springer.com/article/10.1186/s12911-024-02651-8?utm_source=researchgate.net&utm_medium=article)
 
 - **Selection of Digital Watermarking Techniques for Medical Image Security by Using the Fuzzy Analytical Hierarchy Process**  
   Ahmad M., Nadeem M., Agrawal A., Khan R.A. | *Recent Advances in Computer Science and Communications* | 2023 | 3 citations  
-  [Link](#)
+  [Link](https://www.eurekaselect.com/article/131365)
 
 - **Security Assessment of Operating System by Using Decision Making Algorithms**  
   Pathak P.C., Nadeem M., Ansar S.A. | *International Journal of Information Technology*, 17(6), 3609–3618 | 2025 | 16 citations  
-  [Link](#)
+  [Link](https://link.springer.com/article/10.1007/s41870-023-01706-9)
 
 - **Decision Analysis of IoT-Based Big Data Analytics in Smart Cities of Saudi Arabia**  
   Alosaimi W., Alharbi A., Alyami H., et al., Nadeem M. | *PeerJ Computer Science*, 11, e3383 | 2025 | 1 citation  
-  [Link](#)
+  [Link](https://peerj.com/articles/cs-3383/)
 
 ---
 
@@ -144,31 +144,27 @@ Publications listed in order of citations. Links to be updated.
 
 - **Integrity Assessment of Medical Devices for Improving Hospital Services**  
   Alzahrani F.A., Ahmad M., Nadeem M., Kumar R., Khan R.A. | *Computers, Materials & Continua*, 67(3), 3619 | 2021 | 37 citations  
-  [Link](#)
+  [Link](https://www.researchgate.net/publication/349683526_Integrity_Assessment_of_Medical_Devices_for_Improving_Hospital_Services)
 
 - **Healthcare Device Security Assessment through Computational Methodology**  
   Ahmad M., Al-Amri J.F., Subahi A.F., et al., Nadeem M. | *Computer Systems Science & Engineering*, 41(2) | 2022 | 30 citations  
-  [Link](#)
+  [Link](https://www.techscience.com/csse/v41n2/45184)
 
 - **Usable-Security Assessment of Healthcare Software System through Fuzzy ANP-TOPSIS Method**  
   Seh A.H., Ahmad M., Nadeem M., et al. | *International Journal of System Dynamics Applications*, 10(4), 1–24 | 2021 | 3 citations  
-  [Link](#)
+  [Link](https://www.igi-global.com/article/usable-security-assessment-of-healthcare-software-system-through-fuzzy-anp-topsis-method/304444)
 
 - **Next-Generation Security for Big Data Analytics in Healthcare IoT Using Hybrid Cryptographic Techniques**  
   Alharbi A., Alosaimi W., Ahmad M., Nadeem M. | *Health Informatics Journal*, 32(1) | 2026  
-  [Link](#)
+  [Link](https://journals.sagepub.com/doi/10.1177/14604582261417493?utm_source=researchgate.net&utm_medium=article)
 
 - **Quantitative Evaluation of Mental-Health in Type-2 Diabetes Patients through Computational Model**  
   Alassery F., Alzahrani A., Khan A.I., et al., Nadeem M. | *Intelligent Automation & Soft Computing*, 32(3), 1701–1715 | 2022 | 26 citations  
-  [Link](#)
+  [Link](https://www.techscience.com/iasc/v32n3/45929)
 
 - **Determination of Security Factors Affecting Internet of Medical Things by Artificial Intelligence Technique**  
   Nadeem M., Pathak P.C., Ahmad M., Ahmad M. | *International Journal of Education and Management Engineering*, 14(2), 41 | 2024 | 4 citations  
-  [Link](#)
-
-- **Cyber Security Quantification of Healthcare Medical Devices through Soft Computing Technique**  
-  Ahmad M., Nadeem M., Seh A.H., Khan R.A. | *International Journal of Advanced Technology in Engineering and Science*, 9 | 2021 | 2 citations  
-  [Link](#)
+  [Link](https://www.mecs-press.org/ijeme/ijeme-v14-n2/v14n2-4.html)
 
 ---
 
@@ -176,11 +172,7 @@ Publications listed in order of citations. Links to be updated.
 
 - **Deep Learning Approach for Classifying DDoS Attack Traffic in SDN Environments**  
   Nadeem M., Dwivedi S., Akhtar R., Ansari S.A., et al. | *Journal of Information Security and Cybercrimes Research*, 7(2), 109–126 | 2024 | 4 citations  
-  [Link](#)
-
-- **Deep Learning Models for Advanced Intrusion Detection in Next-Generation Networks**  
-  Rastogi R., Tripathi S., Nadeem M. | *International Journal of Advanced Research (IJAR)*, 14(02), 1322–1329 | 2026  
-  [Link](#)
+  [Link](https://journals.nauss.edu.sa/index.php/JISCR/article/view/3136)
 
 - **Mathematical Modeling of Adaptive Information Security Strategies Using Composite Behavior Models**  
   Al Nuaim A., Al Nuaim A., Nadeem M., Agrawal A. | *Scientific Reports* | 2026  
@@ -254,7 +246,7 @@ Publications listed in order of citations. Links to be updated.
 
 - ResearchGate: [Mohd Nadeem](https://www.researchgate.net/profile/Mohd-Nadeem)
 - Google Scholar: [Dr. Mohd Nadeem](https://scholar.google.com)
-- Institutional Email: nadeem@srmu.ac.in
+- Institutional Email: mohdnadeem.dcse@srmu.ac.in
 
 ---
 
